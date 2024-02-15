@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Comparing two files",
+  "type": "module",
+  "main": "gendiff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Egor Vasichkin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "npm": "^10.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
